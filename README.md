@@ -1,12 +1,11 @@
 # 💫 About Me:
 # Hello!👋
-## This is Fahmid
 
-### I am Quazi Fahmiduzzaman but most people know me by 'Fahmid'. I am a Software Engineer with a strong work history in Full Stack Web Development. I am currently in the process of building a Tech Start-Up.
+### I am Quazi Fahmiduzzaman but most people know me by 'Fahmid'. I am a Software Engineer and Tinkerer.
 \
 &nbsp;
 # Personal Website : [www.qfzaman.com](https://www.qfzaman.com)
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with Coding Interviews<br>🌱 I’m currently learning Cloud Architecture<br>💬 Ask me about Full Stack Architecture<br>⚡ Fun fact I love to tinker with Docker and Kubernetes on my Raspberry Pi's
+🔭 I’m currently working as a Software QA Engineer<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Coding Interviews<br>🌱 I’m currently learning Cloud Architecture<br>💬 Ask me about the Cloud<br>⚡ Fun fact I love to tinker with Docker and Kubernetes on my Raspberry Pi's
 
 
 ## 🌐 Socials:
